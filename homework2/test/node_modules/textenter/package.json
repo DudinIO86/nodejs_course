@@ -1,0 +1,11 @@
+{
+  "name": "textenter",
+  "version": "1.0.0",
+  "description": "Выводит текст по заданному значению",
+  "main": "textEnter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DudinIO",
+  "license": "ISC"
+}
